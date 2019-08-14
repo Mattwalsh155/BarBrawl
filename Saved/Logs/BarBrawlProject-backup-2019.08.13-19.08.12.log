@@ -1,0 +1,1008 @@
+﻿Log file open, 08/13/19 14:12:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BarBrawlProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.389982
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.13-18.12.50:303][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.13-18.12.50:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:304][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-18.12.50:306][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-18.12.50:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-18.12.50:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-18.12.50:307][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-18.12.50:307][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.13-18.12.50:364][  0]LogHAL: Display: Platform has ~ 16 GB [17031782400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.13-18.12.50:364][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.13-18.12.50:364][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.13-18.12.50:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.13-18.12.50:365][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Config/Windows/Engine.ini]
+[2019.08.13-18.12.50:365][  0]LogInit: Computer: DESKTOP-GTCG833
+[2019.08.13-18.12.50:365][  0]LogInit: User: Matt
+[2019.08.13-18.12.50:365][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.13-18.12.50:365][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.13-18.12.50:366][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.13-18.12.50:366][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.13-18.12.50:366][  0]LogMemory: Process Physical Memory: 98.24 MB used, 98.24 MB peak
+[2019.08.13-18.12.50:366][  0]LogMemory: Process Virtual Memory: 89.93 MB used, 89.93 MB peak
+[2019.08.13-18.12.50:366][  0]LogMemory: Physical Memory: 6247.81 MB used,  9994.96 MB free, 16242.77 MB total
+[2019.08.13-18.12.50:366][  0]LogMemory: Virtual Memory: 4674.63 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.08.13-18.12.50:430][  0]LogInit: Using OS detected language (en-US).
+[2019.08.13-18.12.50:430][  0]LogInit: Using OS detected locale (en-CA).
+[2019.08.13-18.12.50:430][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.13-18.12.50:573][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.13-18.12.50:593][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.13-18.12.50:593][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.13-18.12.50:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-18.12.50:734][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.13-18.12.50:792][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.08.13-18.12.50:792][  0]LogD3D11RHI:       8081/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.13-18.12.50:818][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.13-18.12.50:818][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.13-18.12.50:820][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.13-18.12.50:820][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.13-18.12.50:820][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.13-18.12.50:830][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.13-18.12.50:830][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.13-18.12.50:830][  0]LogWindows: EnumDisplayDevices:
+[2019.08.13-18.12.50:830][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.08.13-18.12.50:831][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.13-18.12.50:831][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.13-18.12.50:831][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.13-18.12.50:832][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.13-18.12.50:832][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.13-18.12.50:832][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.13-18.12.50:832][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.13-18.12.50:832][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.08.13-18.12.50:832][  0]LogD3D11RHI:   Driver Version: 398.27 (internal:24.21.13.9827, unified:398.27)
+[2019.08.13-18.12.50:832][  0]LogD3D11RHI:      Driver Date: 6-13-2018
+[2019.08.13-18.12.50:832][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.08.13-18.12.50:864][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.13-18.12.50:867][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-18.12.50:867][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-18.12.50:867][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.13-18.12.50:880][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.13-18.12.51:189][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.13-18.12.51:202][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.13-18.12.51:213][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.13-18.12.51:224][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.13-18.12.51:234][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.13-18.12.51:245][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.13-18.12.51:256][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.13-18.12.51:267][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.13-18.12.51:272][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.13-18.12.51:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.13-18.12.51:339][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.13-18.12.51:398][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.13-18.12.51:398][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.13-18.12.51:422][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.13-18.12.51:422][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.13-18.12.51:432][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.13-18.12.51:442][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.13-18.12.51:453][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.13-18.12.51:463][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.13-18.12.51:499][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.13-18.12.51:499][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.13-18.12.51:499][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.13-18.12.51:505][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.13-18.12.51:535][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Intermediate/Shaders/WorkingDirectory/18616/).
+[2019.08.13-18.12.51:535][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/4DCAE3EC4D4FAADC5505CA9FE32B9B84/'.
+[2019.08.13-18.12.51:536][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.13-18.12.51:536][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.13-18.12.51:536][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.13-18.12.52:013][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Matt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../_Projects/GameDev/Unreal/BarBrawlProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../_Projects/GameDev/Unreal/BarBrawlProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-18.12.52:055][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.13-18.12.52:066][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.13-18.12.52:066][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.13-18.12.52:066][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.13-18.12.52:078][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.13-18.12.52:078][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.13-18.12.52:078][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.13-18.12.52:097][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.13-18.12.52:098][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.13-18.12.52:099][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.13-18.12.52:171][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2019.08.13-18.12.52:430][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.13-18.12.52:535][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.13-18.12.52:535][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.13-18.12.52:535][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.13-18.12.52:535][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.13-18.12.52:535][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.13-18.12.52:548][  0]LogNetVersion: BarBrawlProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1135844317)
+[2019.08.13-18.12.52:912][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.024889 seconds
+[2019.08.13-18.12.52:919][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.13-18.12.52:919][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.13-18.12.52:919][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.13-18.12.53:570][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.13-18.12.53:583][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.13-18.12.54:306][  0]SourceControl: Source control is disabled
+[2019.08.13-18.12.54:306][  0]SourceControl: Source control is disabled
+[2019.08.13-18.12.54:308][  0]SourceControl: Source control is disabled
+[2019.08.13-18.12.54:308][  0]SourceControl: Source control is disabled
+[2019.08.13-18.12.54:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.13-18.12.54:753][  0]LogOcInput: OculusInput pre-init called
+[2019.08.13-18.12.55:328][  0]LogEngine: Initializing Engine...
+[2019.08.13-18.12.55:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.13-18.12.55:330][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.13-18.12.55:510][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.13-18.12.55:520][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.13-18.12.55:530][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-18.12.55:767][  0]LogInit: FAudioDevice initialized.
+[2019.08.13-18.12.55:768][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.13-18.12.55:807][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Matt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.13-18.12.55:808][  0]LogInit: Texture streaming: Enabled
+[2019.08.13-18.12.55:819][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.13-18.12.55:844][  0]LogInit: Transaction tracking system initialized
+[2019.08.13-18.12.55:856][  0]BlueprintLog: New page: Editor Load
+[2019.08.13-18.12.55:904][  0]LocalizationService: Localization service is disabled
+[2019.08.13-18.12.56:175][  0]LogFileCache: Scanning file cache for directory 'D:/_Projects/GameDev/Unreal/BarBrawlProject/Content/' took 0.01s
+[2019.08.13-18.12.56:175][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.13-18.12.56:175][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.13-18.12.56:306][  0]SourceControl: Source control is disabled
+[2019.08.13-18.12.56:306][  0]Cmd: MAP LOAD FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.13-18.12.56:306][  0]LightingResults: New page: Lighting Build
+[2019.08.13-18.12.56:308][  0]MapCheck: New page: Map Check
+[2019.08.13-18.12.56:308][  0]LightingResults: New page: Lighting Build
+[2019.08.13-18.12.56:370][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.08.13-18.12.59:545][  0]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2019.08.13-18.12.59:564][  0]LogMaterial: Warning: D:\_Projects\GameDev\Unreal\BarBrawlProject\Content\Assets\Pool_Table\07_-_Default.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.13-18.12.59:564][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Pool_Table/jalat.jalat
+[2019.08.13-18.13.00:310][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-18.13.00:370][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.13-18.13.00:409][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.13-18.13.00:409][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.13-18.13.00:410][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2019.08.13-18.13.00:410][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 4.103
+[2019.08.13-18.13.01:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.13.01:157][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.13.01:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.13.01:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.13.01:214][  0]LogCollectionManager: Loaded 0 collections in 0.000835 seconds
+[2019.08.13-18.13.01:383][  0]LogFileCache: Scanning file cache for directory 'D:/_Projects/GameDev/Unreal/BarBrawlProject/Saved/Collections/' took 0.01s
+[2019.08.13-18.13.01:384][  0]LogFileCache: Scanning file cache for directory 'D:/_Projects/GameDev/Unreal/BarBrawlProject/Content/Developers/Matt/Collections/' took 0.01s
+[2019.08.13-18.13.01:384][  0]LogFileCache: Scanning file cache for directory 'D:/_Projects/GameDev/Unreal/BarBrawlProject/Content/Collections/' took 0.01s
+[2019.08.13-18.13.01:384][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.13-18.13.01:393][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2741 classes and 664 folders.
+[2019.08.13-18.13.01:453][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.13-18.13.01:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.01:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.13-18.13.02:095][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.13-18.13.02:135][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.13-18.13.02:849][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.13-18.13.02:849][  0]LogLoad: (Engine Initialization) Total time: 14.97 seconds
+[2019.08.13-18.13.02:849][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.13-18.13.02:918][  0]LogAssetRegistry: Asset discovery search completed in 10.7697 seconds
+[2019.08.13-18.13.02:922][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.13-18.13.02:922][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.08.13-18.13.02:942][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.13-18.13.02:951][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.13-18.13.02:952][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.13-18.13.03:002][  0]LogSlate: Took 0.018849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.13-18.13.03:315][  1]LogRenderer: Reallocating scene render targets to support 800x360 Format 10 NumSamples 1 (Frame:1).
+[2019.08.13-18.13.03:905][ 28]LogSlate: Took 0.016397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.13-18.13.30:812][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-18.13.30:876][647]LogSlate: Window 'Plugins' being destroyed
+[2019.08.13-18.13.30:882][647]LogSlate: Window 'Plugins' being destroyed
+[2019.08.13-18.13.30:882][647]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.08.13-18.13.32:560][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-18.13.32:676][753]LogRenderer: Reallocating scene render targets to support 1072x500 Format 10 NumSamples 1 (Frame:1656).
+[2019.08.13-18.13.33:798][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Projectile.Projectile
+[2019.08.13-18.13.35:621][814]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2019.08.13-18.13.36:761][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2019.08.13-18.13.37:037][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Enemy_BP.Enemy_BP
+[2019.08.13-18.13.37:301][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Destructibles/Destructible_Round_BP.Destructible_Round_BP
+[2019.08.13-18.13.37:554][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Destructibles/Destructible_Pool_BP.Destructible_Pool_BP
+[2019.08.13-18.13.37:812][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Destructibles/Destructible_Chairs_BP.Destructible_Chairs_BP
+[2019.08.13-18.13.38:085][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2019.08.13-18.13.38:339][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Destructibles/Destructible_Bar_BP.Destructible_Bar_BP
+[2019.08.13-18.13.38:596][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Destructibles/Destructible_Table_BP.Destructible_Table_BP
+[2019.08.13-18.13.38:948][814]LogSlate: Took 0.006768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.13-18.13.39:193][815]LogSlate: Took 0.012378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.13-18.14.06:999][447]LogRenderer: Reallocating scene render targets to support 1084x616 Format 10 NumSamples 1 (Frame:1).
+[2019.08.13-18.26.54:736][486]LogSlate: Took 0.083003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.13-18.27.00:622][838]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-18.27.01:146][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.13-18.27.01:210][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.27.01:424][838]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BPD1AB5623403D620B1D403FA7E74D17B4.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-18.27.49:158][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.13-18.27.50:297][696]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap_Auto1B446DC8E423F21CE558F3E99C0035578.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2019.08.13-18.27.50:342][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.223
+[2019.08.13-18.27.50:342][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.223
+[2019.08.13-18.29.26:399][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.08.13-18.29.28:381][457]LogSlate: Window 'Save Content' being destroyed
+[2019.08.13-18.30.05:566][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.08.13-18.30.05:567][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Damageable_Interface" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset" SILENT=true
+[2019.08.13-18.30.05:569][625]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Damageable_InterfaceF12288AB48A9B26F451872881E683717.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset'
+[2019.08.13-18.30.05:571][625]LogMetaData: Removing '/Game/TopDownBP/Damageable_Interface.SKEL_Damageable_Interface_C' ref from Metadata '/Game/TopDownBP/Damageable_Interfacer.PackageMetaData'
+[2019.08.13-18.30.05:571][625]LogMetaData: Removing '/Game/TopDownBP/Damageable_Interface.Damageable_Interface_C' ref from Metadata '/Game/TopDownBP/Damageable_Interfacer.PackageMetaData'
+[2019.08.13-18.30.05:585][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Damageable_Interface" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset" SILENT=true
+[2019.08.13-18.30.05:590][625]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Damageable_Interface64B9BEA1420B03A697B098BAB856D41B.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset'
+[2019.08.13-18.30.05:730][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.08.13-18.30.05:773][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.13-18.30.05:810][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.08.13-18.30.06:596][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Damageable_Interface.Damageable_Interface
+[2019.08.13-18.34.18:511][770]BlueprintLog: New page: Compile Damageable_Interface
+[2019.08.13-18.34.18:553][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.08.13-18.34.18:565][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Damageable_Interface" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset" SILENT=true
+[2019.08.13-18.34.18:571][770]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Damageable_Interface8582C4864E47E65A26E017BAFEE47CFD.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Damageable_Interface.uasset'
+[2019.08.13-18.35.19:716][394]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-18.35.19:976][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.13-18.35.20:015][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.35.20:048][394]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BP5CB9EC53419D3476C239FFBF2D6B7B08.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-18.37.50:761][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.08.13-18.37.51:009][731]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap_Auto260281FA74DD40F76F4DC62895D01DAF5.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.08.13-18.37.51:010][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.294
+[2019.08.13-18.37.51:010][731]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
+[2019.08.13-18.39.15:657][222]LogLinker: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2019.08.13-18.39.15:658][222]LogLinker: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter'
+[2019.08.13-18.39.24:304][729]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-18.39.24:308][729]LogBlueprint: Warning: [Compiler Enemy_BP] Could not find a variable named "OuttaHealth" in 'Enemy_BP_C'.
+Make sure 'Enemy_BP_C' has been compiled for  Get OuttaHealth
+[2019.08.13-18.39.24:309][729]LogBlueprint: Error: [Compiler Enemy_BP] The property associated with  Outta Health  could not be found in '/Game/TopDownBP/Blueprints/Enemy_BP.Enemy_BP_C'
+[2019.08.13-18.39.24:573][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.08.13-18.39.24:587][729]LogBlueprint: Warning: [Compiler Enemy_BP] [1596.71] Compile of Enemy_BP failed. 1 Fatal Issue(s) 1 Warning(s) [in 282 ms] (/Game/TopDownBP/Blueprints/Enemy_BP.Enemy_BP)
+[2019.08.13-18.39.42:715][807]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-18.39.42:986][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.08.13-18.39.43:028][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.39.43:058][807]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BPC321688542D6E4CC052173853D8243A1.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-18.40.59:218][347]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-18.40.59:491][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.13-18.40.59:535][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.40.59:565][347]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BP13580D4C42BD7F95CF7CA29BA43A8A37.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-18.42.54:419][174]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.42.54:424][174]LogBlueprint: Error: [Compiler Projectile] This blueprint (self) is not a Enemy_BP_C, therefore ' Target ' must have a connection.
+[2019.08.13-18.42.55:205][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.13-18.42.55:219][174]LogBlueprint: Warning: [Compiler Projectile] [1807.34] Compile of Projectile failed. 1 Fatal Issue(s) 0 Warning(s) [in 800 ms] (/Game/TopDownBP/Blueprints/Projectile.Projectile)
+[2019.08.13-18.43.03:881][692]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.43.03:885][692]LogBlueprint: Error: [Compiler Projectile] This blueprint (self) is not a Enemy_BP_C, therefore ' Target ' must have a connection.
+[2019.08.13-18.43.04:054][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.13-18.43.04:066][692]LogBlueprint: Warning: [Compiler Projectile] [1816.19] Compile of Projectile failed. 1 Fatal Issue(s) 0 Warning(s) [in 185 ms] (/Game/TopDownBP/Blueprints/Projectile.Projectile)
+[2019.08.13-18.43.11:086][112]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.43.11:276][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.13-18.43.11:318][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-18.43.11:340][112]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Projectile11F6711B46F6513E81ECDB88AB5C34B0.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-18.44.22:914][387]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.44.23:094][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.13-18.44.23:130][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-18.44.23:154][387]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/ProjectileB091DE2A49B0FCC80997EF89A0693F35.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-18.45.21:182][834]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.45.21:357][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.13-18.45.21:391][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-18.45.21:415][834]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/ProjectileF73D9F424F99D4A0F9EFD586034B878B.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-18.45.22:267][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-18.45.22:285][883]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Projectile541075CE4FBFB6D86119B7BE103EDBC1.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-18.45.25:720][ 89]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-18.45.25:742][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.45.25:821][ 89]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.13-18.45.25:831][ 89]LogPlayLevel: [PlayLevel] Compiling Enemy_BP before play...
+[2019.08.13-18.45.26:088][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.45.26:116][ 89]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BPD4BA920B4986172A1334F49E3659AC44.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-18.45.26:161][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.13-18.45.26:161][ 89]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2019.08.13-18.45.26:202][ 89]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 10:45:26 AM)
+[2019.08.13-18.45.26:223][ 89]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-18.45.26:239][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015714s)
+[2019.08.13-18.45.26:239][ 89]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-18.45.26:240][ 89]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.08.13-18.45.26:240][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016576s)
+[2019.08.13-18.45.26:285][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.08.13-18.45.26:369][ 89]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-18.45.26:476][ 89]LogInit: FAudioDevice initialized.
+[2019.08.13-18.45.26:481][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.45.26:539][ 89]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-18.45.26:615][ 89]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-14.45.26
+[2019.08.13-18.45.26:686][ 89]LogWorld: Bringing up level for play took: 0.121200
+[2019.08.13-18.45.26:750][ 89]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.13-18.45.26:793][ 89]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.13-18.45.26:793][ 89]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.08.13-18.45.26:799][ 89]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.078
+[2019.08.13-18.45.26:799][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.45.41:198][929]LogScript: Warning: Attempted to access Enemy_BP_2 via property K2Node_DynamicCast_AsEnemy_BP, but Enemy_BP_2 is pending kill
+	Projectile_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Projectile_C_3
+	Function /Game/TopDownBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:0170
+[2019.08.13-18.45.41:198][929]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_BP_2 via property K2Node_DynamicCast_AsEnemy_BP, but Enemy_BP_2 is pending kill". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  SpawnActor Enemy BP
+[2019.08.13-18.45.41:198][929]LogScript: Warning: Attempted to access Enemy_BP_2 via property K2Node_DynamicCast_AsEnemy_BP, but Enemy_BP_2 is pending kill
+	Projectile_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Projectile_C_3
+	Function /Game/TopDownBP/Blueprints/Projectile.Projectile_C:ExecuteUbergraph_Projectile:01E4
+[2019.08.13-18.45.41:198][929]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_BP_2 via property K2Node_DynamicCast_AsEnemy_BP, but Enemy_BP_2 is pending kill". Blueprint:  Projectile Function:  Execute Ubergraph Projectile Graph:  EventGraph Node:  SpawnActor Enemy BP
+[2019.08.13-18.45.42:396][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-18.45.42:471][  5]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-18.45.42:476][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.45.42:514][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-18.45.42:514][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.45.42:605][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.08.13-18.45.42:633][  6]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.13-18.45.45:149][157]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-18.45.45:154][157]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-18.46.17:428][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.08.13-18.46.17:687][ 90]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap100C04904E2016F55C97DC95B90556A3.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.08.13-18.46.17:780][ 90]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap_BuiltData44E7E0A64999B6B8CD086E918564A5B4.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.08.13-18.46.44:392][598]BlueprintLog: New page: Compile Projectile
+[2019.08.13-18.46.44:604][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.13-18.46.44:644][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-18.46.44:667][598]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Projectile9CA79610443616BAE84B819887A7CDC9.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-18.46.46:995][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-18.46.47:020][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.46.47:020][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-18.46.47:020][736]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 10:46:47 AM)
+[2019.08.13-18.46.47:020][736]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-18.46.47:037][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016910s)
+[2019.08.13-18.46.47:037][736]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-18.46.47:038][736]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.08.13-18.46.47:038][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017694s)
+[2019.08.13-18.46.47:104][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.13-18.46.47:111][736]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-18.46.47:208][736]LogInit: FAudioDevice initialized.
+[2019.08.13-18.46.47:214][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-18.46.47:243][736]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-18.46.47:250][736]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-14.46.47
+[2019.08.13-18.46.47:251][736]LogWorld: Bringing up level for play took: 0.006461
+[2019.08.13-18.46.47:266][736]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.456
+[2019.08.13-18.46.47:278][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.46.49:200][851]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0025
+[2019.08.13-18.46.49:200][851]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.49:200][851]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:00E2
+[2019.08.13-18.46.49:200][851]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.49:200][851]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:019F
+[2019.08.13-18.46.49:200][851]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.49:200][851]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:025C
+[2019.08.13-18.46.49:200][851]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.49:200][851]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0319
+[2019.08.13-18.46.49:200][851]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.59:266][455]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0025
+[2019.08.13-18.46.59:266][455]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.59:266][455]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:00E2
+[2019.08.13-18.46.59:267][455]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.59:267][455]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:019F
+[2019.08.13-18.46.59:267][455]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.59:267][455]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:025C
+[2019.08.13-18.46.59:267][455]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.46.59:267][455]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:0319
+[2019.08.13-18.46.59:267][455]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-18.47.07:050][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-18.47.07:109][925]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-18.47.07:114][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.47.07:154][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-18.47.07:155][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-18.47.07:212][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.08.13-18.47.07:268][926]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.13-18.47.09:641][ 65]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-18.47.09:646][ 65]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-18.58.16:060][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.13-18.58.16:335][ 44]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap43B6E6AD4F3EEBE97CEA05A4752D2322.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.08.13-18.58.16:404][ 44]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap_BuiltData74A39944483E0535323090BACB86A561.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.08.13-18.58.32:389][900]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.13-18.58.35:957][110]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-18.58.36:179][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.08.13-18.58.36:242][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-18.58.36:285][110]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterD7C2D4204449BEC6A4EC9786D088E65A.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-18.59.29:911][300]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-18.59.29:919][300]LogBlueprint: Warning: [Compiler TopDownCharacter] Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2019.08.13-18.59.29:920][300]LogBlueprint: Warning: [Compiler TopDownCharacter] Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Health
+[2019.08.13-18.59.29:922][300]LogBlueprint: Error: [Compiler TopDownCharacter] The property associated with  Health  could not be found in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'
+[2019.08.13-18.59.29:923][300]LogBlueprint: Error: [Compiler TopDownCharacter] The property associated with  Health  could not be found in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'
+[2019.08.13-18.59.30:173][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.08.13-18.59.30:198][300]LogBlueprint: Warning: [Compiler TopDownCharacter] [2802.32] Compile of TopDownCharacter failed. 2 Fatal Issue(s) 2 Warning(s) [in 287 ms] (/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter)
+[2019.08.13-18.59.37:364][725]LogBlueprint: Warning: Blueprint Enemy_BP (child of/implements TopDownCharacter) has a member variable with a conflicting name (health). Changing to health_0.
+[2019.08.13-18.59.49:430][361]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.08.13-18.59.52:176][512]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.08.13-18.59.52:180][512]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.08.13-18.59.53:409][586]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-18.59.53:638][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.08.13-18.59.53:699][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-18.59.53:741][586]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterB30584834571F05C214B759BF2ABC939.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-18.59.53:756][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-18.59.53:784][586]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BPC7C3AD99424918A6DCB17D8B500013E5.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-19.00.06:179][325]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.00.06:439][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.08.13-19.00.06:497][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.00.06:541][325]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterF29166A84E02E99AA66F30BAEC6DDA0E.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.00.06:554][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-19.00.06:581][325]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BP4A0A94E54A1210665ABA0AB32FDDBE05.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-19.00.32:877][896]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.00.33:137][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.08.13-19.00.33:196][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.00.33:243][896]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterCCAF0DEC4588844E1051B69383E0043E.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.00.34:358][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.00.34:400][960]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacter38FA519B41DEA06CE885D4B6211E4BCA.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.02.16:544][ 42]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.02.16:821][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.13-19.02.16:881][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.02.16:931][ 42]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacter03A67A224F9CDDE7F5C91DB64DE19FB1.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.02.55:153][322]LogBlueprint: Warning: Blueprint Enemy_BP (child of/implements TopDownCharacter) has a member variable with a conflicting name (OuttaHealth). Changing to OuttaHealth_0.
+[2019.08.13-19.02.57:093][434]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.02.57:355][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.13-19.02.57:418][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.02.57:465][434]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacter05735662483EB179FA6A4F8EA3FE5014.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.02.57:479][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-19.02.57:506][434]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BP8E5D657B423E3BCC12B928903EF017F4.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-19.03.49:711][518]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.03.49:976][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.08.13-19.03.50:036][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.03.50:084][518]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacter23C287FD4FB2505DBBEEF6B79EEFA692.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.04.04:021][341]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.04.04:254][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.08.13-19.04.04:317][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.04.04:366][341]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterA7706A684D33C7944C2544B0F00006B3.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.04.06:326][448]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-19.04.06:357][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.06:357][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-19.04.06:357][448]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 11:04:06 AM)
+[2019.08.13-19.04.06:357][448]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-19.04.06:372][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014522s)
+[2019.08.13-19.04.06:372][448]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-19.04.06:373][448]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.08.13-19.04.06:373][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015269s)
+[2019.08.13-19.04.06:422][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.08.13-19.04.06:427][448]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-19.04.06:522][448]LogInit: FAudioDevice initialized.
+[2019.08.13-19.04.06:527][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-19.04.06:555][448]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-19.04.06:562][448]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-15.04.06
+[2019.08.13-19.04.06:562][448]LogWorld: Bringing up level for play took: 0.006530
+[2019.08.13-19.04.06:577][448]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.855
+[2019.08.13-19.04.06:577][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: libcurl info message cache 0 (Connection 22 seems to be dead!)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: libcurl info message cache 1 (Closing connection 22)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: 0000020B96A82980: libcurl info message cache 4 (Closing connection 23)
+[2019.08.13-19.04.08:336][554]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE331F8C-4A32-A7F4-BD72-D09B3E50A46A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=41b002d04679b6f42cc57b85b505c32d%7Cd1c487b6ca2b444f9104f5d4e1806e99%7Cd0fb8521-f166-4548-b1fa-f1b32a081ef0&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.13-19.04.18:731][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-19.04.18:807][181]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-19.04.18:812][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.18:855][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-19.04.18:855][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.18:911][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.13-19.04.18:922][182]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.08.13-19.04.26:640][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.13-19.04.27:439][676]LogEditorViewport: Clicking on Actor (LMB): Enemy_BP_C (Enemy_BP)
+[2019.08.13-19.04.29:548][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-19.04.51:509][ 97]BlueprintLog: New page: Compile TopDownCharacter
+[2019.08.13-19.04.51:827][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.13-19.04.51:889][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.08.13-19.04.51:938][ 97]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownCharacterF3E881084CA4177492CE798610C5906F.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.08.13-19.04.55:097][282]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-19.04.55:124][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.55:124][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-19.04.55:126][282]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 11:04:55 AM)
+[2019.08.13-19.04.55:126][282]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-19.04.55:139][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014588s)
+[2019.08.13-19.04.55:140][282]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-19.04.55:140][282]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.08.13-19.04.55:140][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015263s)
+[2019.08.13-19.04.55:199][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.08.13-19.04.55:206][282]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-19.04.55:313][282]LogInit: FAudioDevice initialized.
+[2019.08.13-19.04.55:318][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-19.04.55:345][282]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-19.04.55:351][282]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-15.04.55
+[2019.08.13-19.04.55:352][282]LogWorld: Bringing up level for play took: 0.005932
+[2019.08.13-19.04.55:367][282]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.355
+[2019.08.13-19.04.55:367][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.04.57:229][392]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.04.57:229][392]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.05.10:360][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-19.05.10:435][182]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-19.05.10:441][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.05.10:480][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-19.05.10:480][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.05.10:531][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.13-19.05.10:558][183]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.08.13-19.05.12:873][317]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.05.12:877][317]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.06.26:238][625]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-19.06.26:483][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.08.13-19.06.26:531][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-19.06.26:560][625]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BP737A7D424ED4D1A82D398CAD13A4D4D8.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-19.06.28:645][749]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-19.06.28:677][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.06.28:677][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-19.06.28:677][749]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 11:06:28 AM)
+[2019.08.13-19.06.28:677][749]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-19.06.28:693][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015776s)
+[2019.08.13-19.06.28:693][749]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-19.06.28:693][749]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.08.13-19.06.28:693][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016478s)
+[2019.08.13-19.06.28:738][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.13-19.06.28:743][749]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-19.06.28:837][749]LogInit: FAudioDevice initialized.
+[2019.08.13-19.06.28:843][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-19.06.28:868][749]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-19.06.28:875][749]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-15.06.28
+[2019.08.13-19.06.28:875][749]LogWorld: Bringing up level for play took: 0.006165
+[2019.08.13-19.06.28:890][749]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.169
+[2019.08.13-19.06.28:891][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.06.36:881][226]LogScript: Warning: Attempted to access Projectile_C_2 via property K2Node_Event_OtherActor, but Projectile_C_2 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.06.36:882][226]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_2 via property K2Node_Event_OtherActor, but Projectile_C_2 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.06.44:949][710]LogScript: Warning: Attempted to access Projectile_C_5 via property K2Node_Event_OtherActor, but Projectile_C_5 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.06.44:949][710]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_5 via property K2Node_Event_OtherActor, but Projectile_C_5 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.06.47:015][834]LogScript: Warning: Attempted to access Projectile_C_6 via property K2Node_Event_OtherActor, but Projectile_C_6 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.06.47:015][834]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_6 via property K2Node_Event_OtherActor, but Projectile_C_6 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.06.49:915][  8]LogScript: Warning: Attempted to access Projectile_C_7 via property K2Node_Event_OtherActor, but Projectile_C_7 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.06.49:915][  8]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_7 via property K2Node_Event_OtherActor, but Projectile_C_7 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.06.51:765][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-19.06.51:857][124]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-19.06.51:863][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.06.51:906][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-19.06.51:906][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.06.51:962][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.13-19.06.51:990][125]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.13-19.06.53:191][197]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.06.53:196][197]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.07.02:418][670]BlueprintLog: New page: Compile Enemy_BP
+[2019.08.13-19.07.02:661][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.08.13-19.07.02:709][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Enemy_BP" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset" SILENT=true
+[2019.08.13-19.07.02:738][670]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Enemy_BPAAF14FED4CFAD78F106FE38DFC9A1DEC.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Enemy_BP.uasset'
+[2019.08.13-19.07.05:220][818]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.08.13-19.07.05:245][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.07.05:245][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.13-19.07.05:246][818]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2019, 11:07:05 AM)
+[2019.08.13-19.07.05:246][818]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.08.13-19.07.05:262][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016540s)
+[2019.08.13-19.07.05:263][818]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.08.13-19.07.05:263][818]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2019.08.13-19.07.05:263][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017554s)
+[2019.08.13-19.07.05:303][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.13-19.07.05:307][818]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.08.13-19.07.05:401][818]LogInit: FAudioDevice initialized.
+[2019.08.13-19.07.05:405][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.13-19.07.05:436][818]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.08.13-19.07.05:442][818]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.08.13-15.07.05
+[2019.08.13-19.07.05:443][818]LogWorld: Bringing up level for play took: 0.005775
+[2019.08.13-19.07.05:458][818]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.264
+[2019.08.13-19.07.05:458][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.07.07:527][942]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.07.07:527][942]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_0 via property K2Node_Event_OtherActor, but Projectile_C_0 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.07.10:044][ 93]LogScript: Warning: Attempted to access Projectile_C_1 via property K2Node_Event_OtherActor, but Projectile_C_1 is pending kill
+	Enemy_BP_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Enemy_BP_2
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:04FE
+[2019.08.13-19.07.10:044][ 93]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_1 via property K2Node_Event_OtherActor, but Projectile_C_1 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.07.12:377][233]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_2 via property K2Node_Event_OtherActor, but Projectile_C_2 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.07.14:761][376]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_3 via property K2Node_Event_OtherActor, but Projectile_C_3 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.07.20:862][742]PIE: Error: Blueprint Runtime Error: "Attempted to access Projectile_C_5 via property K2Node_Event_OtherActor, but Projectile_C_5 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Branch
+[2019.08.13-19.07.21:811][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.13-19.07.21:870][802]LogSlate: Window 'BarBrawlProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.13-19.07.21:875][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.07.21:917][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.13-19.07.21:918][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.08.13-19.07.21:972][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.13-19.07.22:005][803]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.13-19.07.23:745][907]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.07.23:750][907]LogSlate: Window 'Message Log' being destroyed
+[2019.08.13-19.07.25:632][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.08.13-19.07.25:883][ 17]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMapC63E7CA240BBB11FBD31D4B7875F8D98.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.08.13-19.07.25:949][ 17]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/TopDownExampleMap_BuiltDataE28FE52749190085250ED4BA68EBEBDA.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.08.13-19.07.50:006][433]BlueprintLog: New page: Compile Projectile
+[2019.08.13-19.07.50:223][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.08.13-19.07.50:265][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-19.07.50:289][433]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/ProjectileFB9E68BB460A83524245B8A2001AD33F.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
+[2019.08.13-19.08.12:554][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Projectile" FILE="../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset" SILENT=true
+[2019.08.13-19.08.12:572][767]LogSavePackage: Moving '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Saved/Projectile1FBC9E7E42E088AA41DDC390FE71CEDD.tmp' to '../../../../../_Projects/GameDev/Unreal/BarBrawlProject/Content/TopDownBP/Blueprints/Projectile.uasset'
